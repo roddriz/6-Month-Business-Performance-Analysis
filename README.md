@@ -1,4 +1,4 @@
-
+![Business Performance Dashboard](Business_Performance.png)
 📊 6-Month Business Performance Analysis
 🔍 Project Overview
 
